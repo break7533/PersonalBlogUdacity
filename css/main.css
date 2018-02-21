@@ -44,3 +44,8 @@ p {
 hr {
 	border-top: 3px double black;
 }
+
+a {
+  margin-right: 10px;
+text-decoration: none;
+}
